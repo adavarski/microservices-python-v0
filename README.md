@@ -1,11 +1,9 @@
 # simplebank
-App for the Microservices In Action book (https://www.manning.com/books/microservices-in-action)
+App for the Microservices 
 
 ### Starting the services
 
 ```
-cd chapter-7/feature
-
 docker-compose up --build
 ```
 
