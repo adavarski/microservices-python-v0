@@ -1,4 +1,5 @@
-# simplebank
+# bank -with Python framework for building microservices https://www.nameko.io
+
 App for the Microservices 
 
 ### Starting the services
